@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋, I'm Affan Farrukh  
 
-<!--
-**affanfarrukh/affanfarrukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer/Business Consultant turned Data Science Enthusiast | Entrepreneur | Educator**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I love exploring data, building startups, and helping others turn ideas into systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I’m working on
+- Building my **data science portfolio**
+- Creating AI-based startup tools at [Pitchcrafts](https://pitchcrafts.com)
+
+### 💼 Projects
+- 🧠 [Dataverse](#) – My personal data science blog
+- 📊 [Sales Forecast Model](#)
+- 🤖 [AI Client Finder Tool](#)
+
+### 🛠️ Skills
+`Python` · `Pandas` · `Machine Learning` · `SQL` · `Data Visualization`
+
+### 🌐 Connect with me
+[LinkedIn](#) | [YouTube](#) | [Twitter](#)
+
+---
+⭐ *“Turning data into clarity, and ideas into systems.”*
